@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "23007864-147A-4656-9FB8-3E204CC387AE"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1684669E-2CD8-4969-BA10-F92606561068"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestDrivenDevelopment/SortedSet.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "GetMaxElement()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1684669E-2CD8-4969-BA10-F92606561068 - ed7ac76224693eeb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestDrivenDevelopment.SortedSet.GetMaxElement() throws -&gt; Swift.Int"
+                  moduleName = "TestDrivenDevelopment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ggs-bks/Documents/TestDrivenDevelopment/TestDrivenDevelopment/SortedSet.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "180">
+               </Location>
+               <Location
+                  uuid = "1684669E-2CD8-4969-BA10-F92606561068 - ed7ac76224693eeb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestDrivenDevelopment.SortedSet.GetMaxElement() throws -&gt; Swift.Int"
+                  moduleName = "TestDrivenDevelopment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ggs-bks/Documents/TestDrivenDevelopment/TestDrivenDevelopment/SortedSet.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "223">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
